@@ -1,4 +1,5 @@
 import java.util.*;
+
 class Pattern {
     public static void printPascal(int n)
     {
