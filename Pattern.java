@@ -1,5 +1,5 @@
 import java.util.*;
-class GFG {
+class Pattern {
     public static void printPascal(int n)
     {
         for (int i = 1; i <= n; i++) {
